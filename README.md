@@ -42,7 +42,7 @@ Hit the Translate button and see the magic happen!
 
   <h2>👨‍💻 About the Developer</h2>
   <p>Made with 💻 by <strong>Ashok Kumar Verma</strong></p>
-  <p>I’m a passionate web developer who loves creating intuitive and useful applications. Check out more of my work on <a href="https://github.com/Venkateeshh" target="_blank">GitHub</a>.</p>
+  <p>I’m a passionate web developer who loves creating intuitive and useful applications. Check out more of my work on <a href="https://github.com/Ashok-KumarVerma" target="_blank">GitHub</a>.</p>
 
   <div class="footer">
     📣 If you find this app helpful, please share it with your friends and colleagues. Let’s break language barriers together.<br>
